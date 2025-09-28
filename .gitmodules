@@ -1,0 +1,8 @@
+[submodule "deep-agents-ui"]
+	path = deep-agents-ui
+	url = git@github.com:PlebeiusGaragicus/deep-agents-ui.git
+	branch = main
+[submodule "deepagents"]
+	path = deepagents
+	url = git@github.com:PlebeiusGaragicus/deepagents.git
+	branch = master

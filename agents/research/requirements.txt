@@ -1,0 +1,5 @@
+-e ../deepagents
+langgraph-cli[inmem]
+tavily-python
+langchain_openai
+langchain_ollama
